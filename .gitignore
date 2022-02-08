@@ -1,0 +1,8 @@
+bin/
+.metadata/
+src/.classpath
+src/.project
+src/Client.class
+src/ClientHandler.class
+src/Serveur.class
+src/.idea
